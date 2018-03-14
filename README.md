@@ -2,7 +2,7 @@
 
 This is the hands on guide for the Azure Container hackfest.  
 
-Every markdown file includes the steps of completing the container hands on.  
+Every markdown file includes the steps of completing the container hands on. After creating the kubernetes cluster, you can choose the next step depends on your application.
 
 The guide includes:  
 
